@@ -1,0 +1,89 @@
+ body{
+	background-color: blue;
+}
+
+.perfil img{
+	border-radius: 50%;
+	width: 450px;
+	height: 450px;
+	display: block;
+	border: rgb(50, 100, 211) 10px solid;
+	margin:0 auto;
+}
+
+h1{
+	color:yellow;
+	font-size: 50px;    
+	text-align: center;
+}
+
+h2{
+	color: yellow;
+	font-size: 30px;
+	text-align: initial;
+}
+
+h3{
+	color: palegreen;
+}
+
+p{
+	color: white;
+	font-size: 17px;
+	text-align: justify;
+}
+
+table{
+	width: 100%;
+	text-align: center;
+	color: white;
+	background-color: white;
+	border: rgb(0, 0, 255)solid;
+}
+
+th{
+	border: rgb(0, 0, 255)solid;
+	background: black;
+}
+
+td{
+	border: rgb(0, 0, 255)solid;
+	color: black;
+}
+
+li{
+	color: white;
+}
+
+form{
+	border: black;
+	width: 50%;
+	margin: 20px;
+	padding: 20px;
+}
+
+label{
+	color: yellow;
+	font-size: 20px;
+	display: block;
+}
+
+input{
+	margin-bottom: 20px;
+	width: 100%;
+	color: black;
+}
+
+textarea{
+	display: block;
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+button{
+	width: 50%;
+} 
+
+input{
+	border: 1px solid red;
+}  
